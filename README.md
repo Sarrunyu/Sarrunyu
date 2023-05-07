@@ -9,6 +9,10 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maxalexandre12&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxalexandre12&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
+
+<div>
+  <img align="right" height="200" src="https://media2.giphy.com/media/gcgNNe0ZIV22Ncu35D/200w.gif?cid=82a1493b9h1pbkbmhzfbi5f8oi1sqze8yz0zicli2uhbosw9&ep=v1_gifs_related&rid=200w.gif&ct=s"/>  
+</div>  
   
 ________________
 
