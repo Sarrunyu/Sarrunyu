@@ -12,7 +12,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
-<a href="https://github.com/Maxalexandre12/"> <img align="right" alt="GIF" height="230px" src="https://media2.giphy.com/media/gcgNNe0ZIV22Ncu35D/200w.gif?cid=82a1493b9h1pbkbmhzfbi5f8oi1sqze8yz0zicli2uhbosw9&ep=v1_gifs_related&rid=200w.gif&ct=s" /> </a>    
+<a href="https://github.com/Maxalexandre12/"> <img align="right" alt="GIF" height="200px" src="https://media2.giphy.com/media/gcgNNe0ZIV22Ncu35D/200w.gif?cid=82a1493b9h1pbkbmhzfbi5f8oi1sqze8yz0zicli2uhbosw9&ep=v1_gifs_related&rid=200w.gif&ct=s" /> </a>    
   
 ![C](https://icongr.am/devicon/c-plain.svg?size=50&color=6fdf04)
 ![Py](https://icongr.am/devicon/python-plain.svg?size=50&color=6fdf04)
