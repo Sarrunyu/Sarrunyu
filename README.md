@@ -11,20 +11,18 @@
 <a href="https://github.com/rdeconti/"> <img align="right" alt="GIF" width="200px" height="230px" src="https://media2.giphy.com/media/gcgNNe0ZIV22Ncu35D/200w.gif?cid=82a1493b9h1pbkbmhzfbi5f8oi1sqze8yz0zicli2uhbosw9&ep=v1_gifs_related&rid=200w.gif&ct=s" /> </a>
 
 # Tecnologias
-<div align="center">
-  
-![C](https://icongr.am/devicon/c-plain.svg?size=50&color=6fdf04)
-![Py](https://icongr.am/devicon/python-plain.svg?size=50&color=6fdf04)
-![HTML](https://icongr.am/devicon/html5-plain.svg?size=50&color=6fdf04) 
-![CSS](https://icongr.am/devicon/css3-plain.svg?size=50&color=6fdf04) 
-![JS](https://icongr.am/devicon/javascript-plain.svg?size=50&color=6fdf04)
-![GIT](https://icongr.am/devicon/git-plain.svg?size=50&color=6fdf04)
-  
+<div align="center"><br>
+  <img src="https://icongr.am/devicon/c-plain.svg?size=50&color=6fdf04" alt="C">
+  <img src="https://icongr.am/devicon/python-plain.svg?size=50&color=6fdf04" alt="Python">
+  <img src="https://icongr.am/devicon/html5-plain.svg?size=50&color=6fdf04" alt="HTML">
+  <img src="https://icongr.am/devicon/css3-plain.svg?size=50&color=6fdf04" alt="CSS">
+  <img src="https://icongr.am/devicon/javascript-plain.svg?size=50&color=6fdf04" alt="JavaScript">
+  <img src="https://icongr.am/devicon/git-plain.svg?size=50&color=6fdf04" alt="Git">
 </div>
 
-  
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Contato
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Contatos
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-alexandre/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:max.alexandre@mail.uft.edu.br) <br>
