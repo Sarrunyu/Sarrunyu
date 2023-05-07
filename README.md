@@ -11,6 +11,7 @@
   
 ________________  
   
+  
 <div>
 <img align="right" height="200" src="https://media2.giphy.com/media/gcgNNe0ZIV22Ncu35D/200w.gif?cid=82a1493b9h1pbkbmhzfbi5f8oi1sqze8yz0zicli2uhbosw9&ep=v1_gifs_related&rid=200w.gif&ct=s"/>  
 </div>  
@@ -21,6 +22,7 @@ ________________
 ![CSS](https://icongr.am/devicon/css3-plain.svg?size=50&color=6fdf04) 
 ![JS](https://icongr.am/devicon/javascript-plain.svg?size=50&color=6fdf04)
  ![GIT](https://icongr.am/devicon/git-plain.svg?size=50&color=6fdf04)
+  
   
 ________________  
 
