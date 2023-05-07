@@ -10,8 +10,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxalexandre12&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
-
-  
 ________________
 
 ![C](https://icongr.am/devicon/c-plain.svg?size=50&color=6fdf04)
@@ -27,6 +25,5 @@ ________________
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:max.alexandre@mail.uft.edu.br) 
 
 ![Snake animation](https://github.com/Maxalexandre12/Maxalexandre12/blob/output/github-contribution-grid-snake.svg)
-  <img align="right" height="150" src="https://media2.giphy.com/media/gcgNNe0ZIV22Ncu35D/200w.gif?cid=82a1493b9h1pbkbmhzfbi5f8oi1sqze8yz0zicli2uhbosw9&ep=v1_gifs_related&rid=200w.gif&ct=s"/>  
-  
+
 </div>
